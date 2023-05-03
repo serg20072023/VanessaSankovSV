@@ -1,5 +1,6 @@
 ﻿#language: ru
-
+@ExportScenarios
+@IgnorOnCIMainBuild
 @tree
 
 Функционал: создание документа Поступлеие товара  
